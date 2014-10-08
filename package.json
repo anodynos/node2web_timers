@@ -1,6 +1,6 @@
 {
  "name": "timers",
- "version": "3.24.10",
+ "version": "3.46.1",
  "main": "timers.min.js",
  "description": "'timers' nodejs core module browserify-ied with `--standalone timers`. Should support all module systems (commonjs, AMD & `window.timers`) - check browserify docs.",
  "keywords": [
